@@ -1,0 +1,121 @@
+### Multiple Choice Questions (MCQs)
+
+1. *What does the presence of a tsconfig.json file indicate?*
+    - A) The root of a JavaScript project
+    - B) The root of a TypeScript project
+    - C) The root of a JSON project
+    - D) The root of an HTML project
+    
+    *Answer:* B) The root of a TypeScript project
+
+2. *Which of the following properties is NOT part of a compilerOptions in tsconfig.json?*
+    - A) module
+    - B) preserveConstEnums
+    - C) sourceMap
+    - D) files
+    
+    *Answer:* D) files
+
+3. *Which property in tsconfig.json specifies the list of files to be included in the compilation?*
+    - A) include
+    - B) files
+    - C) exclude
+    - D) modules
+    
+    *Answer:* B) files
+
+4. *What is the default file extension for TypeScript files?*
+    - A) .ts
+    - B) .tsx
+    - C) .js
+    - D) .json
+    
+    *Answer:* A) .ts
+
+5. *Which command is used to compile TypeScript code using tsconfig.json?*
+    - A) tsc --compile
+    - B) tsc --project
+    - C) tsc --build
+    - D) tsc --config
+    
+    *Answer:* B) tsc --project
+
+6. *Which of the following JSON formats is correct for defining a string property?*
+    - A) { 'name': 'Vipin' }
+    - B) { "name": Vipin }
+    - C) { "name": "Vipin" }
+    - D) { name: "Vipin" }
+    
+    *Answer:* C) { "name": "Vipin" }
+
+7. *How can you exclude certain files from being compiled in tsconfig.json?*
+    - A) Using exclude property
+    - B) Using omit property
+    - C) Using ignore property
+    - D) Using reject property
+    
+    *Answer:* A) Using exclude property
+
+8. *What is the purpose of the sourceMap option in tsconfig.json?*
+    - A) To include source maps in the output files
+    - B) To exclude source maps from the output files
+    - C) To compile TypeScript code faster
+    - D) To generate minified JavaScript files
+    
+    *Answer:* A) To include source maps in the output files
+
+9. *Which JSON key/value pair format is valid in JSON?*
+    - A) { name: "Vipin" }
+    - B) { "name": 'Vipin' }
+    - C) { "name": "Vipin" }
+    - D) { 'name': Vipin }
+    
+    *Answer:* C) { "name": "Vipin" }
+
+10. *What does the noImplicitAny compiler option do?*
+    - A) Allows variables to have any type implicitly
+    - B) Disallows variables to have the any type implicitly
+    - C) Implicitly converts all types to any
+    - D) Disables implicit conversion to any type
+    
+    *Answer:* B) Disallows variables to have the any type implicitly
+
+11. *What is the extension for a TypeScript declaration file?*
+    - A) .ts
+    - B) .d.ts
+    - C) .tsx
+    - D) .json
+    
+    *Answer:* B) .d.ts
+
+12. *Which of the following is a valid tsconfig.json file property for specifying the root files?*
+    - A) roots
+    - B) files
+    - C) rootFiles
+    - D) mainFiles
+    
+    *Answer:* B) files
+
+13. *What does the outFile compiler option do?*
+    - A) Specifies the output directory
+    - B) Specifies the name of the output file
+    - C) Specifies the output format
+    - D) Specifies the source map file
+    
+    *Answer:* B) Specifies the name of the output file
+
+14. *Which of the following can be used to extend a base configuration in tsconfig.json?*
+    - A) base
+    - B) extends
+    - C) inherit
+    - D) super
+    
+    *Answer:* B) extends
+
+15. *Which of the following TypeScript types does NOT exist?*
+    - A) boolean
+    - B) string
+    - C) number
+    - D) int
+    
+    *Answer:* D) int
